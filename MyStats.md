@@ -17,7 +17,22 @@ describing four different games that i am interested in.
 
 ----------------------------------------
 
-Pithy Quotes
+### Pithy Quotes
 >Life is short, and every moment is precious-*Gad Saad*
 >
 >Fortune favors the prepared mind-*Louis Pasteur*
+
+-----------------------------------------
+
+### Code Fencing
+>What is the purpose of the "robots" meta tag in HTML?
+
+Source link- <https://stackoverflow.com/questions/4677586/what-is-the-purpose-of-the-robots-meta-tag-in-html>
+```
+<meta name="robots" content="noindex, nofollow">
+<!-- or -->
+<meta name="robots" content="none">
+<!-- or if you only care about Google... -->
+<meta name="googlebot" content="noindex, nofollow">
+```
+css.tricks- <https://css-tricks.com/snippets/html/meta-tags-for-instructing-search-bots/>
