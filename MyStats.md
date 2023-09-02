@@ -19,4 +19,5 @@ describing four different games that i am interested in.
 
 Pithy Quotes
 >Life is short, and every moment is precious-*Gad Saad*
+>
 >Fortune favors the prepared mind-*Louis Pasteur*
