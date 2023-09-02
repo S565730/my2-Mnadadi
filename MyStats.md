@@ -14,3 +14,9 @@ describing four different games that i am interested in.
 | Chess       | Improve creativity     |    8        |
 | Golf        | Reduce anxiety         |    10       |
 | Cricket     | Improves focus         |    8        |
+
+----------------------------------------
+
+Pithy Quotes
+>Life is short, and every moment is precious-*Gad Saad*
+>Fortune favors the prepared mind-*Louis Pasteur*
